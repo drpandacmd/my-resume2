@@ -1,5 +1,3 @@
-# my-resume2
-my-resume on github
 <html>
    <head>
        <title>Резюме haidai</title>
